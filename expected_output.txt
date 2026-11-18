@@ -1,0 +1,5 @@
+Self-checks: PASS
+Enter minutes and price per minute: 
+Minutes: 7; price per minute: 2.35 UAH
+Total cost: 16.45 UAH
+Expected error: Minutes must be positive
